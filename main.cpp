@@ -1,3 +1,7 @@
+//Kanemoto
+//1/22/26
+//mandelbrot
+
 #include <iostream>
 #include <fstream>
 
